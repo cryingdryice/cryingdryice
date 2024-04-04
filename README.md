@@ -2,9 +2,12 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
-<a href="s">
-  <img src="https://baek-joon-solved-git-main-cryingdryices-projects.vercel.app" />
-</a>
+## 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingdryice&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmgman)](https://solved.ac/jmgman/)
+
+
 <!--
 **cryingdryice/cryingdryice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
