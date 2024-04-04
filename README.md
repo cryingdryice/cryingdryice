@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=cryingdryice&rotate=0)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 <!--
 **cryingdryice/cryingdryice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
