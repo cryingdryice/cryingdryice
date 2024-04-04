@@ -5,7 +5,7 @@
 ## 📊 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingdryice&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmgman)](https://solved.ac/jmgman/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cryingdryice)](https://solved.ac/cryingdryice/)
 
 
 <!--
