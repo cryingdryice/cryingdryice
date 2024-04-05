@@ -4,7 +4,7 @@
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingdryice&show_icons=true&theme=radical)](https://github.com/cryingdryice)
+[![cryingdryice's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingdryice&show_icons=true&theme=radical)](https://github.com/cryingdryice)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkjiwon0821)](https://solved.ac/profile/parkjiwon0821)
 
 <!--
