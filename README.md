@@ -9,6 +9,10 @@
 
 <!--<img src="https://cdn.simpleicons.org/webpack/000/fff" alt="webpack" width=70>-->
 
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/c-007AAC?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
+
 <!--
 **cryingdryice/cryingdryice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
