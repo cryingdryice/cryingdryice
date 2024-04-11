@@ -8,7 +8,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkjiwon0821)](https://solved.ac/profile/parkjiwon0821)
 
 <!--<img src="https://cdn.simpleicons.org/webpack/000/fff" alt="webpack" width=70>-->
-
+## 💻 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **cryingdryice/cryingdryice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
