@@ -14,7 +14,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGCHdvFYzE&#x2F;tl7leVc8kECNjHMj8hB_VA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-박지원 님의 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGCHdvFYzE&#x2F;tl7leVc8kECNjHMj8hB_VA&#x2F;watch?utm_content=DAGCHdvFYzE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">bıg SALE</a>
 
 <!--
 **cryingdryice/cryingdryice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
