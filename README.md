@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:ffffff,30:eeffff,40:cceeff,50:bbbbff,60:cceeff,70:eeeeff,100:ffffff&text=cryingdryice&fontSize=100&fontAlignY=35&fontColor=1199ff&desc=bone-chillingly%20cold&descAlign=76&stroke=ffffff&strokeWidth=5&descSize=15&section=header&animation=twinkling&textBg=false)
 
+<img src="https://github.com/cryingdryice/cryingdryice/blob/main/cryingdryice%20(2).gif"  width="100%" height="550"/>
+
 ## 📊 Stats
 
 [![cryingdryice's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryingdryice&show_icons=true&theme=radical)](https://github.com/cryingdryice)
